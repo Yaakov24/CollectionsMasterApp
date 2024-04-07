@@ -123,7 +123,7 @@ namespace CollectionsMasterConsoleUI
                     numbers[i] = 0;
                 }
             }
-        }
+         }
       
         private static void OddKiller(List<int> numberList)
         {
