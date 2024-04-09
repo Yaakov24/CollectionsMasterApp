@@ -102,7 +102,8 @@ namespace CollectionsMasterConsoleUI
 
             //TODO: Sort the list then print results
             Console.WriteLine("Sorted Evens!!");
-            
+            myList.Sort();
+            NumberPrinter(myList);
             Console.WriteLine("------------------");
 
             //TODO: Convert the list to an array and store that into a variable
